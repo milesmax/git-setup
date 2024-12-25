@@ -7,4 +7,7 @@ Steps
 4. configure git username and email
 5. Run git init
 6. Run git remote add origin <URL OF GITHUB REPO>
-7. git push --set-upstream origin master
+7. Install github command line
+8. Run gh auth login
+9. Validate with credentials
+10. git push -u origin main
