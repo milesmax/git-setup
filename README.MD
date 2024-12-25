@@ -52,7 +52,7 @@
 >Files already in the repo must be removed
 >
 > *Make sure to .gitignore them too*
->
->       `git rm --cached <file-path>`
+>### Remove currently tracked file
+>     `git rm --cached <file-path>`
 
 
