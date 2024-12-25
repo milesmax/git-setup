@@ -26,6 +26,9 @@ git merge test-branch
 Step 4. Push the changes
 git push -u origin main
 
+DELETE LOCAL BRANCH
+git branch -d <branch-name>
+
 DELETE REMOTE BRANCH FROM LOCAL CLI
 
 1. git push -d <remote_name> <branchname>
