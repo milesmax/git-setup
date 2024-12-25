@@ -12,7 +12,7 @@
    >9. Validate with credentials
    >10. git push -u origin main
 
-
+   
 ## Pull Request
 
 >Step 1. Clone the repo / update local repo with 
@@ -47,6 +47,9 @@
 
 >.gitignore will ignore files that are ADDED 
 > to git
+> 
+> Place .gitignore in main file directory
+> 
 > 
 >
 >Files already in the repo must be removed
